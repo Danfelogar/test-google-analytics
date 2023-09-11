@@ -10,6 +10,7 @@ function App () {
     <div>
       <h1>Vite + React</h1>
       <GoogleMaps />
+      <h2>update google analytics</h2>
     </div>
   )
 }
